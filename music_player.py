@@ -4,18 +4,7 @@ import pygame
 import os
 from os import path
 from pydub import AudioSegment
-import numpy as np
-import simpleaudio as sa
-import sounddevice as sd
-from scipy.io.wavfile import write
-import matplotlib.pyplot as plt
-from scipy.io.wavfile import read,write
-from IPython.display import Audio
-from numpy.fft import fft,ifft
-import requests
-from bs4 import BeautifulSoup
 from tkinter import filedialog
-import webbrowser
 from tkinter import messagebox
 from tkinter import simpledialog
 
